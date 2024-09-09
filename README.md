@@ -12,7 +12,7 @@
 - :technologist: I’m passionate about leveraging Software to solve `Problems`.
 - :computer: I am a competitive programmer at `Codeforces`,  `Leetcode` and  `Codechef`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY LINKEDIN PROFILE](https://www.linkedin.com/in/kaushal-vala-0b2818285/).
+- :boom: You can visit [MY LINKEDIN PROFILE](https://www.linkedin.com/in/saurabh-nandaniya-8970152a8/).
 <br>
  <picture> <img src="competitive_programming_profile.png" width=40> </picture> My Competitive Programming Profiles
 
